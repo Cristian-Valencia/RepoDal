@@ -1,0 +1,13 @@
+package dev.archety.school;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Lez06ReposIntroApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
